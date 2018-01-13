@@ -1,5 +1,8 @@
+#Will Kelly
 
+#missing the imports!
 
+#You will need to change the URL's for your own
 url1 = 'https://assess.joincyberdiscovery.com/challenge-files/clock-pt1?verify=2jiuUX8oAaTAL3AW3qVxVA%3D%3D'
 url2 = 'https://assess.joincyberdiscovery.com/challenge-files/clock-pt2?verify=2jiuUX8oAaTAL3AW3qVxVA%3D%3D'
 url3 = 'https://assess.joincyberdiscovery.com/challenge-files/clock-pt3?verify=2jiuUX8oAaTAL3AW3qVxVA%3D%3D'
